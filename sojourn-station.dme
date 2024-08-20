@@ -88,6 +88,7 @@
 #include "code\__DEFINES\subsystems-priority.dm"
 #include "code\__DEFINES\subsystems.dm"
 #include "code\__DEFINES\targeting.dm"
+#include "code\__DEFINES\tgs.config.dm"
 #include "code\__DEFINES\tgs.dm"
 #include "code\__DEFINES\tgui.dm"
 #include "code\__DEFINES\time.dm"
